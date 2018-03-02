@@ -1,0 +1,9 @@
+name: ReportSystem
+author: SirPrixx
+version: 2.0
+description:
+main: de.sirprixx.reportsystem.Main
+
+commands:
+  report:
+  ticket:
